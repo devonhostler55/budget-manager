@@ -75,11 +75,3 @@ To get a local copy up and running, follow these simple steps.
 ## Contributing
 
 Contributions are welcome. Please open an issue first to discuss what you would like to change.
-
-## License
-
-Distributed under the MIT License. See `LICENSE` for more information.
-
-## Contact
-
-Project Link: [https://github.com/mariominondo/simple-budget-manager](https://github.com/mariominondo/simple-budget-manager)
